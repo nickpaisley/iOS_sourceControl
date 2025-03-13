@@ -1,0 +1,15 @@
+{
+  "originHash" : "acbd5a9b87e81bef9a9af7d451745a8ac3a50fc01132a8a510a396be84031be8",
+  "pins" : [
+    {
+      "identity" : "bugsnag-cocoa",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bugsnag/bugsnag-cocoa.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "b29cdabec2f0d396a6a80ca1cfe7ee0bfdf04992"
+      }
+    }
+  ],
+  "version" : 3
+}
